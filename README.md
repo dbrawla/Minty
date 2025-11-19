@@ -73,3 +73,14 @@ Planning Document:
 
 User Research Survey:
 👉 https://docs.google.com/forms/d/e/1FAIpQLSeI8yKExCnr9hFEop7uQn9XR9LWmYj8M8XbnR1g21JidfdMRQ/viewform
+
+🏆 About HackDavis 2025
+
+HackDavis is UC Davis’s largest collegiate hackathon, focused on building solutions to empower community and social good.
+Minty was developed from scratch in under 24 hours by a team of three.
+
+✨ Author
+
+Desiree Bishnoi
+Computer Science @ UC Davis
+Passionate about designing meaningful technology, building user-centered experiences, and developing practical software tools.
